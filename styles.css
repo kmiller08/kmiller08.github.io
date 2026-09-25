@@ -48,7 +48,7 @@
   --tag-project-bg: var(--gold-tint);
 
   /* ---- LAYOUT ------------------------------------------------------------ */
-  --max: 1080px;
+  --max: 1400px;
   --gutter: clamp(20px, 5vw, 56px);
   --radius: 14px;
 }
